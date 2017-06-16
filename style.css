@@ -133,7 +133,7 @@ html, body {
  background-color:#333333;
 }
 
-blockquote{
+blockquote {
  color: #333;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
@@ -141,4 +141,9 @@ blockquote{
   margin-top: 0;
   margin-bottom: 80px;
   text-transform: uppercase;
+}
+
+.main p {
+  color: white;
+  font-size: 27px;
 }
