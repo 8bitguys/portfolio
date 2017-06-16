@@ -132,3 +132,13 @@ html, body {
 .header{
  background-color:#333333;
 }
+
+blockquote{
+ color: #333;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
